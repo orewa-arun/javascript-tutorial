@@ -1,3 +1,4 @@
+// Strings are array objects in js
 let email = "arunworkacc0@gmail.com";
 
 let firstName = "Arunkumar";
